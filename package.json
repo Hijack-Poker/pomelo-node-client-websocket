@@ -27,7 +27,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "@types/node": "10.12.21",
-    "pomelo-protobuf": "git://192.168.2.100/Server/NodeModules/cs-pomelo-protobuf-updated.git",
+    "pomelo-protobuf": "git+https://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:x-oauth-basic@github.com/Hijack-Poker/pomelo-protobuf.git",
     "pomelo-protocol": "^0.1.0",
     "ws": "6.1.3"
   },
